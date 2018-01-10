@@ -1183,5 +1183,9 @@
     {
         "name": "Evening Night",
         "colors": ["#005AA7", "#FFFDE4"]
+    },
+    {
+        "name": "Red Intesa",
+        "colors": ["#C83200", "#D66540", "#E4997D", "#F1CCBE"]
     }
 ]
